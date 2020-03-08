@@ -16,5 +16,6 @@ App({
     }
 
     this.globalData = {}
+    this.userInfo = {} //定义全局用户信息
   }
 })
