@@ -19,31 +19,31 @@
     "selectedColor":"#937bf5",
     "list": [
       {
-        "iconpath":"images/tabbar/list.png",
+        "iconPath":"images/tabbar/list.png",
         "selectedIconPath":"images/tabbar/list_selected.png",
         "pagePath": "pages/index/index",
         "text": "首页"
       },
       {
-        "iconpath": "images/tabbar/order.png",
+        "iconPath": "images/tabbar/order.png",
         "selectedIconPath": "images/tabbar/order_selected.png",
         "pagePath": "pages/order/order",
         "text": "订单"
       },
       {
-        "iconpath": "images/tabbar/package.png",
+        "iconPath": "images/tabbar/package.png",
         "selectedIconPath": "images/tabbar/package_selected.png",
         "pagePath": "pages/package/package",
         "text": "套餐"
       },
       {
-        "iconpath": "images/tabbar/users.png",
+        "iconPath": "images/tabbar/users.png",
         "selectedIconPath": "images/tabbar/users_selected.png",
         "pagePath": "pages/users/users",
         "text": "用户"
       },
       {
-        "iconpath": "images/tabbar/mine.png",
+        "iconPath": "images/tabbar/mine.png",
         "selectedIconPath": "images/tabbar/mine_selected.png",
         "pagePath": "pages/mine/mine",
         "text": "我的"
